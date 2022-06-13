@@ -1,9 +1,8 @@
 # depslib dependency file v1.0
-1655085941 source:c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\main.cpp
+1655089575 source:c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\main.cpp
 	<GLUT/glut.h>
 	<GL/glut.h>
 	<stdlib.h>
-	"escena.h"
 
 1653364687 c:\program files\codeblocks\mingw\include\gl\glut.h
 	"freeglut_std.h"
@@ -19,13 +18,13 @@
 	<GL/glu.h>
 	<stdlib.h>
 
-1655085813 source:c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\src\edificio.cpp
+1655088201 source:c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\src\edificio.cpp
 	"edificio.h"
 
 1655085878 c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\include\edificio.h
 	<GL/glut.h>
 
-1655085813 source:c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\src\colisiones.cpp
+1655088201 source:c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\src\colisiones.cpp
 	"colisiones.h"
 
 1655085917 c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\include\colisiones.h
@@ -43,6 +42,9 @@
 	<math.h>
 	"colisiones.h"
 
-1655086014 source:c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\src\escena.cpp
+1655088201 source:c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\src\escena.cpp
 	"Escena.h"
+
+1655088201 source:c:\users\hp\documents\octavo semestre\graficas computacionales\proyecto final\parcialfinal\src\observador.cpp
+	"observador.h"
 
